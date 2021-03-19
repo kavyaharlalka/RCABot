@@ -1,0 +1,14 @@
+Flask==1.1.1
+Flask-Cors==3.0.8
+Flask-Jsonpify==1.5.0
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.5.1
+google-api-core==1.26.1
+google-api-python-client==1.7.9
+google-auth==1.22.1
+google-auth-httplib2==0.0.3
+google-auth-oauthlib==0.4.1
+googleapis-common-protos==1.53.0
+gspread==3.7.0
+httplib2==0.18.1
+oauth2client==4.1.3
